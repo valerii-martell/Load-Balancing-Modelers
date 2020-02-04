@@ -1,0 +1,6 @@
+D:\projects\CommBus\CommBus\bin\Debug\CommBus.exe.config
+D:\projects\CommBus\CommBus\bin\Debug\CommBus.exe
+D:\projects\CommBus\CommBus\bin\Debug\CommBus.pdb
+D:\projects\CommBus\CommBus\obj\Debug\CommBus.csprojResolveAssemblyReference.cache
+D:\projects\CommBus\CommBus\obj\Debug\CommBus.exe
+D:\projects\CommBus\CommBus\obj\Debug\CommBus.pdb
