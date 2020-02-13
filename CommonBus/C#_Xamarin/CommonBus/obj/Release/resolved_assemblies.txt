@@ -1,0 +1,9 @@
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\CommonBus.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\Java.Interop.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\Mono.Android.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\mscorlib.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\System.Core.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\System.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\System.Xml.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\projects\CommonBus\CommonBus\obj\Release\android\assets\System.ServiceModel.Internals.dll

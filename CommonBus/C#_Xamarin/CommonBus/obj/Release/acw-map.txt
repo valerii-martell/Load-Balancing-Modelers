@@ -1,0 +1,4 @@
+CommonBus.MainActivity, CommonBus;md5396f8e789972ff119959a76aa57b727f.MainActivity
+CommonBus.MainActivity, CommonBus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5396f8e789972ff119959a76aa57b727f.MainActivity
+CommonBus.MainActivity;md5396f8e789972ff119959a76aa57b727f.MainActivity
+commonbus.MainActivity;md5396f8e789972ff119959a76aa57b727f.MainActivity
