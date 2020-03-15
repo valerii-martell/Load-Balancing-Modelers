@@ -1,0 +1,6 @@
+D:\projects\TokenBus\TokenBus\bin\Debug\TokenBus.exe.config
+D:\projects\TokenBus\TokenBus\bin\Debug\TokenBus.exe
+D:\projects\TokenBus\TokenBus\bin\Debug\TokenBus.pdb
+D:\projects\TokenBus\TokenBus\obj\Debug\TokenBus.csprojResolveAssemblyReference.cache
+D:\projects\TokenBus\TokenBus\obj\Debug\TokenBus.exe
+D:\projects\TokenBus\TokenBus\obj\Debug\TokenBus.pdb
