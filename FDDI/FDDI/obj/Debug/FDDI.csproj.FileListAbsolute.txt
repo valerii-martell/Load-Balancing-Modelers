@@ -1,0 +1,6 @@
+D:\projects\FDDI\FDDI\bin\Debug\FDDI.exe.config
+D:\projects\FDDI\FDDI\bin\Debug\FDDI.exe
+D:\projects\FDDI\FDDI\bin\Debug\FDDI.pdb
+D:\projects\FDDI\FDDI\obj\Debug\FDDI.csprojResolveAssemblyReference.cache
+D:\projects\FDDI\FDDI\obj\Debug\FDDI.exe
+D:\projects\FDDI\FDDI\obj\Debug\FDDI.pdb
