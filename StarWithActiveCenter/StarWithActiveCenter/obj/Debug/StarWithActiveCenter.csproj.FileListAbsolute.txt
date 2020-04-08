@@ -1,0 +1,6 @@
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\bin\Debug\StarWithActiveCenter.exe.config
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\bin\Debug\StarWithActiveCenter.exe
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\bin\Debug\StarWithActiveCenter.pdb
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\obj\Debug\StarWithActiveCenter.csprojResolveAssemblyReference.cache
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\obj\Debug\StarWithActiveCenter.exe
+D:\projects\StarWithActiveCenter\StarWithActiveCenter\obj\Debug\StarWithActiveCenter.pdb
