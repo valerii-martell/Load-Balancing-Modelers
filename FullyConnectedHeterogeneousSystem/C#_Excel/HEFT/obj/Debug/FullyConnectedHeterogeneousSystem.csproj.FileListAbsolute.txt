@@ -1,0 +1,5 @@
+D:\projects\HEFT\HEFT\bin\Debug\HEFT.exe.config
+D:\projects\HEFT\HEFT\bin\Debug\HEFT.exe
+D:\projects\HEFT\HEFT\bin\Debug\HEFT.pdb
+D:\projects\HEFT\HEFT\obj\Debug\HEFT.exe
+D:\projects\HEFT\HEFT\obj\Debug\HEFT.pdb
