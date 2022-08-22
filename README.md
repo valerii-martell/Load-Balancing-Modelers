@@ -3,7 +3,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/35d4bbf96265499bb39d06826ff3376b)](https://www.codacy.com/gh/valerii-martell/Load-Balancing-Modelers/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=valerii-martell/Load-Balancing-Modelers&amp;utm_campaign=Badge_Grade)
 
 A set of desktop programs for modeling the immersion of graphs of parallel programs (static load balancing) in computer systems of
-various architecture (fully connected, lattice, star, Common Bus, Token Bus, Token Ring, FDDI, etc.) using (heterogeneous) earliest finish time algorithm (HEFT and EFT).
+various architecture (fully connected, lattice, star, Common Bus, Token Bus, Token Ring, FDDI, etc.) using (heterogeneous) earliest finish time algorithm (HEFT or EFT).
 
 **Technology stack:**
 1. C#, Xamarin, Microsoft Excel API
